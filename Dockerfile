@@ -13,7 +13,6 @@ RUN pip install pandas
 
 RUN pip install bokeh
 
-RUN pip install jupyter
 
 EXPOSE 5006
 
